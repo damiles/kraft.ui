@@ -7,10 +7,10 @@
 A professional UI prototyping tool for the high-fidelity frontend web and mobile development. UI components can be very modular.
 
 <p align="left">
-  <img src="assets/screenshot_3.jpeg" width="auto">
-  <img src="assets/screenshot_4.jpeg" width="auto">
-  <img src="assets/screenshot_1.jpeg" width="auto">
-  <img src="assets/screenshot_2.jpeg" width="auto">
+  <img src="assets/screenshot_3.jpeg" width="49%" height="auto">
+  <img src="assets/screenshot_4.jpeg" width="49%" height="auto">
+  <img src="assets/screenshot_1.jpeg" width="49%" height="auto">
+  <img src="assets/screenshot_2.jpeg" width="49%" height="auto">
 </p>
 
 ### _web
